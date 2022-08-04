@@ -1,14 +1,14 @@
 # Alpine.js Demo
 
-# How to Run
+## How to Run
 ```
 npm install
 cp db.json.example db.json
 json-server db.json
 ```
-Open index.html in web browser
+Open `index.html` in your web browser
 
-# What I used
+## What I used
 - Alpine.js
 - Bulma (framework)
 - Font Awesome
